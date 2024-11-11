@@ -1,0 +1,14 @@
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\bin\Debug\net8.0\Näsan Över E.exe
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\bin\Debug\net8.0\Näsan Över E.deps.json
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\bin\Debug\net8.0\Näsan Över E.runtimeconfig.json
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\bin\Debug\net8.0\Näsan Över E.dll
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\bin\Debug\net8.0\Näsan Över E.pdb
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\Näsan Över E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\Näsan Över E.AssemblyInfoInputs.cache
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\Näsan Över E.AssemblyInfo.cs
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\Näsan Över E.csproj.CoreCompileInputs.cache
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\Näsan Över E.dll
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\refint\Näsan Över E.dll
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\Näsan Över E.pdb
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\Näsan Över E.genruntimeconfig.cache
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\ref\Näsan Över E.dll
