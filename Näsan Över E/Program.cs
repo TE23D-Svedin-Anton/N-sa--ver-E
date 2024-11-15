@@ -58,3 +58,19 @@
 // }
 // Console.WriteLine("Välkommen");
 // Console.ReadLine();
+
+// int Nummer;
+// int i;
+// for (i = 1; i <= 5; i++)
+// {
+//     Console.WriteLine("skriv ett nummer");
+
+//     string nummer = Console.ReadLine(); 
+//     int.TryParse(nummer, out Nummer);
+//     if(Nummer > 5)
+//     {
+//         Console.WriteLine("Nämen, det här nummret är högre är 5");
+//     }
+// }
+// Console.WriteLine("Ahop här tog det slut");
+// Console.ReadLine();
