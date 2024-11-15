@@ -12,3 +12,4 @@ C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\re
 C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\Näsan Över E.pdb
 C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\Näsan Över E.genruntimeconfig.cache
 C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\ref\Näsan Över E.dll
+C:\Users\anton.svedin\Documents\Programmering\Näsan Över E\obj\Debug\net8.0\Näsan Över E.sourcelink.json

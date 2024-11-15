@@ -41,3 +41,20 @@
 //     Console.WriteLine("Hello, World!");
 // }
 // Console.ReadLine();
+
+// string Lösenord;
+// bool success = false;
+
+// while(!success)
+// {
+//     Lösenord = Console.ReadLine();
+//     if(Lösenord != "Lösenord")
+//     {
+//         Console.WriteLine("Skriv in rätt lösenord, dumhuvve"); 
+//     } else if (Lösenord == "Lösenord")
+//     {
+//         success = true;
+//     }
+// }
+// Console.WriteLine("Välkommen");
+// Console.ReadLine();
