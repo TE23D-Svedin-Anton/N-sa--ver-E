@@ -97,9 +97,7 @@ bool Lyckat = false;
 int Intgissninglocal = 0;
 Console.WriteLine(r);
 
-while(Intgissninglocal != r)
-{
-    while(!Lyckat)
+    while(!Lyckat && Intgissninglocal != r)
     {
       string gissning = Console.ReadLine();
       int Intgissning;
@@ -110,9 +108,7 @@ while(Intgissninglocal != r)
       {
         Console.WriteLine("Skriv ett nummer dumhuvve");
       }
-    }
-
-    if(Intgissninglocal < r)
+      if(Intgissninglocal < r)
     {
         Console.WriteLine("För lågt");
         Console.ReadLine();
@@ -128,4 +124,3 @@ while(Intgissninglocal != r)
         Console.ReadLine();
     }
 }
-
