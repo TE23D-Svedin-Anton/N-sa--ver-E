@@ -74,3 +74,58 @@
 // }
 // Console.WriteLine("Ahop här tog det slut");
 // Console.ReadLine();
+
+// bool Lyckat = false;
+
+// while(Lyckat == false)
+// {
+//     string ord = Console.ReadLine();
+//     int ordet = 0;
+//     Lyckat = int.TryParse(ord, out ordet);
+
+//     if(Lyckat == false)
+//     {
+//         Console.WriteLine("Ajabaja, skriv något som kan konverteras till en int");
+//     }else if(Lyckat == true)
+//         {
+//             Console.WriteLine("Bra jobbat!");
+//         }
+// }
+
+int r = Random.Shared.Next(10);
+bool Lyckat = false;
+int Intgissninglocal = 0;
+Console.WriteLine(r);
+
+while(Intgissninglocal != r)
+{
+    while(!Lyckat)
+    {
+      string gissning = Console.ReadLine();
+      int Intgissning;
+      Lyckat = int.TryParse(gissning, out Intgissning);
+      Intgissninglocal = Intgissning;
+
+      if(!Lyckat)
+      {
+        Console.WriteLine("Skriv ett nummer dumhuvve");
+      }
+    }
+
+    if(Intgissninglocal < r)
+    {
+        Console.WriteLine("För lågt");
+        Console.ReadLine();
+    }
+    if(Intgissninglocal > r)
+    {
+        Console.WriteLine("För högt");
+        Console.ReadLine(); 
+    }
+    if(Intgissninglocal == r)
+    {
+        Console.WriteLine("Bra jobbat! Du hade rätt");
+        Console.ReadLine();
+    }
+}
+
