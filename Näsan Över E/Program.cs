@@ -92,35 +92,35 @@
 //         }
 // }
 
-int r = Random.Shared.Next(10);
+int num = Random.Shared.Next(10);
+int Intgissning = 0;
 bool Lyckat = false;
-int Intgissninglocal = 0;
-Console.WriteLine(r);
 
-    while(!Lyckat && Intgissninglocal != r)
+while(Intgissning != num)
+{
+    string gissning = Console.ReadLine();
+    Lyckat = int.TryParse(gissning, out Intgissning);
+    
+    if(!Lyckat)
     {
-      string gissning = Console.ReadLine();
-      int Intgissning;
-      Lyckat = int.TryParse(gissning, out Intgissning);
-      Intgissninglocal = Intgissning;
-
-      if(!Lyckat)
+      Console.WriteLine("Skriv ett nummer dum huvve");
+    }
+    else
+    {
+      
+      if (Intgissning > num)
       {
-        Console.WriteLine("Skriv ett nummer dumhuvve");
-      }
-      if(Intgissninglocal < r)
-    {
-        Console.WriteLine("För lågt");
-        Console.ReadLine();
-    }
-    if(Intgissninglocal > r)
-    {
         Console.WriteLine("För högt");
-        Console.ReadLine(); 
-    }
-    if(Intgissninglocal == r)
+      }
+      else if (Intgissning < num)
+      {
+      Console.WriteLine("För lågt");
+     }
+     else
     {
-        Console.WriteLine("Bra jobbat! Du hade rätt");
-        Console.ReadLine();
+    Console.WriteLine("Bra jobbat");
+    Console.ReadLine();
     }
+  }
 }
+      
