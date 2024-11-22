@@ -1,0 +1,15 @@
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\bin\Debug\net8.0\NäsaÖverESteg2.exe
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\bin\Debug\net8.0\NäsaÖverESteg2.deps.json
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\bin\Debug\net8.0\NäsaÖverESteg2.runtimeconfig.json
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\bin\Debug\net8.0\NäsaÖverESteg2.dll
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\bin\Debug\net8.0\NäsaÖverESteg2.pdb
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\obj\Debug\net8.0\NäsaÖverESteg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\obj\Debug\net8.0\NäsaÖverESteg2.AssemblyInfoInputs.cache
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\obj\Debug\net8.0\NäsaÖverESteg2.AssemblyInfo.cs
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\obj\Debug\net8.0\NäsaÖverESteg2.csproj.CoreCompileInputs.cache
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\obj\Debug\net8.0\NäsaÖverESteg2.sourcelink.json
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\obj\Debug\net8.0\NäsaÖverESteg2.dll
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\obj\Debug\net8.0\refint\NäsaÖverESteg2.dll
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\obj\Debug\net8.0\NäsaÖverESteg2.pdb
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\obj\Debug\net8.0\NäsaÖverESteg2.genruntimeconfig.cache
+C:\Users\anton.svedin\Documents\Programmering\NäsaÖverESteg2\NäsaÖverESteg2\obj\Debug\net8.0\ref\NäsaÖverESteg2.dll
