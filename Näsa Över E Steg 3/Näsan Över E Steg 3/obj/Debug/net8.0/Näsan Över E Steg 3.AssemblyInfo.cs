@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Näsan Över E Steg 3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8c6603c2ab2470ed1609874d1ae0a204774ee31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36be8d1e2725da67738837c7731bc434fe411112")]
 [assembly: System.Reflection.AssemblyProductAttribute("Näsan Över E Steg 3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Näsan Över E Steg 3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
