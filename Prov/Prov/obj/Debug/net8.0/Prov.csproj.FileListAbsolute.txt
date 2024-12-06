@@ -1,0 +1,15 @@
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\bin\Debug\net8.0\Prov.exe
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\bin\Debug\net8.0\Prov.deps.json
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\bin\Debug\net8.0\Prov.runtimeconfig.json
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\bin\Debug\net8.0\Prov.dll
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\bin\Debug\net8.0\Prov.pdb
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\obj\Debug\net8.0\Prov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\obj\Debug\net8.0\Prov.AssemblyInfoInputs.cache
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\obj\Debug\net8.0\Prov.AssemblyInfo.cs
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\obj\Debug\net8.0\Prov.csproj.CoreCompileInputs.cache
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\obj\Debug\net8.0\Prov.sourcelink.json
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\obj\Debug\net8.0\Prov.dll
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\obj\Debug\net8.0\refint\Prov.dll
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\obj\Debug\net8.0\Prov.pdb
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\obj\Debug\net8.0\Prov.genruntimeconfig.cache
+C:\Users\anton.svedin\Documents\Programmering\Prov\Prov\obj\Debug\net8.0\ref\Prov.dll

@@ -1,0 +1,8 @@
+Frågar hur mycket användarens max hp ska vara(1-20)
+medans användarens svar inte är ett number
+läs in användarens svar
+checka om det är number 
+om det inte är ett number nämn att användaren inte har skrivit ett number
+om det är ett number ge det max hp som användaren skrivit
+medans användarens hp inte är 0
+dela ut 1 skada
